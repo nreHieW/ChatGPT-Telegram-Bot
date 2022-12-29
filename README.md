@@ -30,4 +30,4 @@ python main.py
 ## Usage Notes
 The bot is configured such that any input will be considered a message for ChatGPT. This means you do not need to add '/' before each command like most telegram bots. This design decision was made because the bot is meant purely as a portable interface to interact with the model. 
 
-You will have to keep your machine running to use the bot. One workaround is to use replit('https://replit.com/~') and ('https://uptimerobot.com/')
+You will have to keep your machine running to use the bot. One workaround is to create a flask landing page on [Replit](https://replit.com/~) and use [Uptime Robot](https://uptimerobot.com/) to keep it running perpertually. However, Replit's chromedriver support is not the most straightforward to use.
